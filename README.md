@@ -1,2 +1,4 @@
 # repos-show
-AJAX Pratice, It Uses Github API To Show All The Existing Repos 
+AJAX Practice, Uses Github API To Show All The Existing Repos 
+
+## View Demo:  https://bilal-friend.github.io/repos-show/
